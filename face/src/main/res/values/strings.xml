@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preference_track_face_count">track_face_count</string>
+    <string name="preference_recognize_limit_recognize_area">limit_recognize_area</string>
+    <string name="preference_recognize_max_detect_num">max_detect_num</string>
+    <string name="preference_recognize_scale_value">scale_value</string>
+    <string name="preference_dual_camera_offset_horizontal">dual_camera_offset_horizontal</string>
+    <string name="preference_dual_camera_offset_vertical">dual_camera_offset_vertical</string>
+    <string name="preference_recognize_threshold">recognize_threshold</string>
+    <string name="preference_choose_detect_degree">choose_detect_degree</string>
+    <string name="preference_shelter_threshold">shelter_threshold</string>
+    <string name="preference_eye_open_threshold">eye_open_threshold</string>
+    <string name="preference_mouth_close_threshold">mouth_close_threshold</string>
+    <string name="preference_wear_glasses_threshold">wear_glasses_threshold</string>
+    <string name="preference_rgb_liveness_threshold">rgb_liveness_threshold</string>
+    <string name="preference_ir_liveness_threshold">ir_liveness_threshold</string>
+    <string name="preference_liveness_fq_threshold">liveness_fq_threshold</string>
+    <string name="preference_rgb_liveness_face_size_threshold">rgb_liveness_face_size_threshold</string>
+    <string name="preference_ir_liveness_face_size_threshold">ir_liveness_face_size_threshold</string>
+    <string name="preference_image_quality_no_mask_recognize_threshold">image_quality_no_mask_recognize_threshold</string>
+    <string name="preference_image_quality_no_mask_register_threshold">image_quality_no_mask_register_threshold</string>
+    <string name="preference_image_quality_mask_recognize_threshold">image_quality_mask_recognize_threshold</string>
+    <string name="preference_recognize_face_size_limit">recognize_face_size_limit</string>
+    <string name="preference_recognize_move_pixel_limit">recognize_move_pixel_limit</string>
+    <string name="preference_liveness_detect_type">liveness_detect_type</string>
+    <string name="preference_enable_image_quality_detect">enable_image_quality_detect</string>
+    <string name="preference_enable_face_size_limit">enable_face_size_limit</string>
+    <string name="preference_enable_face_move_limit">enable_face_move_limit</string>
+    <string name="preference_switch_camera">switch_camera</string>
+    <string name="preference_dual_camera_preview_size">dual_camera_preview_size</string>
+    <string name="preference_rgb_camera_rotation">rgb_camera_rotation</string>
+    <string name="preference_ir_camera_rotation">ir_camera_rotation</string>
+    <string name="preference_app_id">app_id</string>
+    <string name="preference_sdk_key">sdk_key</string>
+    <string name="preference_active_key">active_key</string>
+    <string name="preference_draw_rgb_rect_horizontal_mirror">draw_rgb_rect_horizontal_mirror</string>
+    <string name="preference_draw_ir_rect_horizontal_mirror">draw_ir_rect_horizontal_mirror</string>
+    <string name="preference_draw_rgb_rect_vertical_mirror">draw_rgb_rect_vertical_mirror</string>
+    <string name="preference_draw_ir_rect_vertical_mirror">draw_ir_rect_vertical_mirror</string>
+    <string name="preference_rgb_preview_horizontal_mirror">rgb_preview_horizontal_mirror</string>
+    <string name="preference_ir_preview_horizontal_mirror">ir_preview_horizontal_mirror</string>
+
+    <string name="value_liveness_type_rgb">rgb_liveness</string>
+    <string name="value_liveness_type_ir">ir_liveness</string>
+    <string name="please_put_photos">请将需要注册的人脸照片放在\n%s\n目录下</string>
+</resources>
